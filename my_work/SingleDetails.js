@@ -1,0 +1,52 @@
+export const SingleDetails=[
+{
+	id:1,
+	phone:123,
+	email:'abc@gmail.com'
+},
+{
+	id:2,
+	phone:456,
+	email:'cde@gmail.com'
+},
+{
+	id:3,
+	phone:789,
+	email:'def@gmail.com'
+},
+{   id:4,
+	phone:177,
+	email:'gth@gmail.com'
+},
+{
+	id:5,
+	phone:686,
+	email:'ahj@gmail.com'
+},
+{
+	id:6,
+	phone:12553,
+	email:'khabc@gmail.com'
+},
+{
+	id:7,
+	phone:1823,
+	email:'abhgc@gmail.com'
+},
+{
+	id:8,
+	phone:18723,
+	email:'abopc@gmail.com'
+},
+{
+	id:9,
+	phone:8523,
+	email:'glkc@gmail.com'
+},
+{
+	id:10,
+	phone:1788723,
+	email:'hkc@gmail.com'
+}
+
+]
